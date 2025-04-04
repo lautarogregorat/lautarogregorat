@@ -10,16 +10,6 @@
 
 ---
 
-### 🚀 Tecnologías que uso
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![
-
-
-
 ### 👨‍💻 Sobre mí
 
 🎓 Estudiante de **5to año** de Ingeniería en Sistemas de Información  
