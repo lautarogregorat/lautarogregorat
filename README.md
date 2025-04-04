@@ -1,5 +1,8 @@
 <!-- Encabezado con banner opcional -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:457B9D&height=200&section=header&text=Hola,%20soy%20Lauti!&fontSize=40&fontColor=fff&animation=fadeIn" />
+<!-- Banner con frase incluida -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:457B9D&height=250&section=header&text=Automatizar,%20proteger%20y%20escalar%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=DevOps%20is%20a%20never-ending%20process%20of%20improvement%20%E2%80%94%20Gene%20Kim&descSize=18&descAlign=middle" />
+
+
 
 ### 👨‍💻 Sobre mí
 
@@ -17,6 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
