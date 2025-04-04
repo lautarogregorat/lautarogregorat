@@ -1,6 +1,6 @@
 <!-- Encabezado con banner opcional -->
 <!-- Banner SOLO con la frase de Gene Kim -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:457B9D&height=200&section=header&text=DevOps%20is%20a%20never-ending%20process%20of%20improvement&fontSize=26&fontColor=ffffff&animation=fadeIn&desc=—%20Gene%20Kim&descSize=18&descAlign=middle" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:457B9D&height=200&section=header&text=DevOps%20is%20a%20never-ending%20process%20of%20improvement&fontSize=26&fontColor=ffffff&animation=fadeIn&descSize=18&descAlign=middle" />
 
 ### 👨‍💻 Sobre mí
 
