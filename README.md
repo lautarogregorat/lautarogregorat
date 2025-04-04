@@ -10,14 +10,6 @@
 
 ---
 
-### 👨‍💻 Sobre mí
-
-🎓 Estudiante de **5to año** de Ingeniería en Sistemas de Información  
-🛠️ Apasionado por la **automatización**, el **desarollo backend**  y la **seguridad informática**  
-🔍 Explorando el mundo de **DevOps** y **Ciberseguridad**  
-
----
-
 ### 🚀 Tecnologías que uso
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
