@@ -27,7 +27,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lautarogregorat&show_icons=true&theme=tokyonight&hide_title=true" />
+  <!--<img height="170" src="https://github-readme-stats.vercel.app/api?username=lautarogregorat&show_icons=true&theme=tokyonight&hide_title=true" />-->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautarogregorat&layout=compact&theme=tokyonight" />
 </div>
 
