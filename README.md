@@ -1,6 +1,22 @@
 <!-- Encabezado con banner opcional -->
-<!-- Banner con frase incluida -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:457B9D&height=250&section=header&text=Automatizar,%20proteger%20y%20escalar%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=DevOps%20is%20a%20never-ending%20process%20of%20improvement%20%E2%80%94%20Gene%20Kim&descSize=18&descAlign=middle" />
+<!-- Banner SOLO con la frase de Gene Kim -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:457B9D&height=200&section=header&text=DevOps%20is%20a%20never-ending%20process%20of%20improvement&fontSize=26&fontColor=ffffff&animation=fadeIn&desc=—%20Gene%20Kim&descSize=18&descAlign=middle" />
+
+### 👨‍💻 Sobre mí
+
+🎓 Estudiante de **5to año** de Ingeniería en Sistemas de Información  
+🛠️ Apasionado por la **automatización**, la **infraestructura como código** y la **seguridad informática**  
+🔍 Explorando el mundo de **DevOps** y **Ciberseguridad**  
+
+---
+
+### 🚀 Tecnologías que uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![
 
 
 
