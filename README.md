@@ -35,7 +35,7 @@
 
 ### 🌐 Contacto
 
-📬 [LinkedIn](https://www.linkedin.com/in/lautarogregorat)  
+📬 [LinkedIn](https://www.linkedin.com/in/francolautarogregorat)  
 📧 lautarogregorat@gmail.com 
 
 ---
